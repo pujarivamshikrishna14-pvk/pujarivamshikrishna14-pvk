@@ -35,6 +35,6 @@ This profile is intended to present a clear view of the projects I build, the te
 ## Contact
 
 - GitHub: [pujarivamshikrishna14-pvk](https://github.com/pujarivamshikrishna14-pvk)
-- LinkedIn: [vamshi-krishna-32bbb9358z](https://www.linkedin.com/in/vamshi-krishna-32bbb9358z/)
+- LinkedIn: [vamshi-pujari](www.linkedin.com/in/vamshi-pujari)
 - LeetCode: [Vamshi_krishna__14](https://leetcode.com/u/Vamshi_krishna__14/)
 - Email: [pujarivamshikrishna28@gmail.com](pujarivamshikrishna28@gmil.com)
